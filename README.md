@@ -8,7 +8,7 @@ A **Software Engineering** 🚀 from Ahmedabad, India.
 
 **About Me!**
 
-- 👀 I’m interested in worked in Swift, SwiftUI and Flutter
+- 👀 I’m interested in worked in Objective-C, Swift, SwiftUI and Flutter
 - 🌱 I’m currently learning SwiftUI and Flutter
 - 📫 How to reach me vijaykumaryadav1341992@gmail.com
 
