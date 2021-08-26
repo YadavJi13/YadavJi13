@@ -16,11 +16,10 @@
 A **Software Engineering** 🚀 from Ahmedabad, India.
 
 **About Me!**
-🔭: I’m currently working on many iOS projects.
-
-👀: I’m interested in worked in Objective-C, Swift, SwiftUI and Flutter
-🌱: I’m currently learning SwiftUI and Flutter 🧠💻🤖
-🤔: I’m looking for help with anything I am currently learning! 😅
+🔭: I’m currently working on many iOS projects. <Br>
+👀: I’m interested in worked in Objective-C, Swift, SwiftUI and Flutter <Br>
+🌱: I’m currently learning SwiftUI and Flutter 🧠💻🤖 <Br>
+🤔: I’m looking for help with anything I am currently learning! 😅 <Br>
 📫: How to reach me vijaykumaryadav1341992@gmail.com
 
 
