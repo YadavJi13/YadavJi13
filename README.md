@@ -5,9 +5,9 @@
 
 <h3 title="name"> Hey 👋, I'm Vijay!</h3>
 
-<a href="https://www.linkedin.com/in/vijaykumar-yadav-325812a2/">
+<!-- <a href="https://www.linkedin.com/in/vijaykumar-yadav-325812a2/">
   <img align="left" alt="VijayYadav's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+</a> -->
 
 
 <br />
@@ -16,19 +16,26 @@
 A **Software Engineering** 🚀 from Ahmedabad, India.
 
 **About Me!**
+🔭: I’m currently working on many iOS projects.
+👀: I’m interested in worked in Objective-C, Swift, SwiftUI and Flutter
+🌱: I’m currently learning SwiftUI and Flutter 🧠💻🤖
+🤔: I’m looking for help with anything I am currently learning! 😅
+📫: How to reach me vijaykumaryadav1341992@gmail.com
 
-- 👀 I’m interested in worked in Objective-C, Swift, SwiftUI and Flutter
-- 🌱 I’m currently learning SwiftUI and Flutter
-- 📫 How to reach me vijaykumaryadav1341992@gmail.com
+
+<hr>
+<Br>
+<h1 align="center">Get in Touch! 📬</h1>
+<Br>
+<p align="center">
+<a href="https://www.linkedin.com/in/vijaykumar-yadav-325812a2/"> &nbsp;&nbsp;&nbsp;  <a href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png">    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/Aryagm" target="blank"><img align="center" src="https://img.shields.io/badge/Aryagm-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 
 Languages and Tools:
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/objective-c/objective-c.png"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code> 
-<code><img height="20" src="https://img.icons8.com/fluency/50/000000/swiftui.png"></code>
-
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/YadavJi13)](https://github.com/YadavJi13) 
+[![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link=https://github.com/YadavJi13)](https://github.com/YadavJi13)
 
    
 
