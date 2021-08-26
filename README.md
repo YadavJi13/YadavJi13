@@ -1,3 +1,8 @@
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
+ <h2 align="center">Profile</h2>
+</p>
+
 <h3 title="name"> Hey 👋, I'm Vijay!</h3>
 
 <a href="https://www.linkedin.com/in/vijaykumar-yadav-325812a2/">
