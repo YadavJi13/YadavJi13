@@ -28,7 +28,9 @@ A **Software Engineering** 🚀 from Ahmedabad, India.
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
 <p align="center">
-<a href="https://www.linkedin.com/in/vijaykumar-yadav-325812a2/"> &nbsp;&nbsp;&nbsp;  <a href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png">    &nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/vijaykumar-yadav-325812a2/">
+  <img align="left" alt="VijayYadav's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 </p>
 
 
