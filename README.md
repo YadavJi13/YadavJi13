@@ -15,7 +15,9 @@
 
 A **Software Engineering** 🚀 from Ahmedabad, India.
 
-**About Me!**
+
+<h3 title="name"> About Me!: </h3>
+
 <Br>
 🔭: I’m currently working on many iOS projects. <Br>
 👀: I’m interested in worked in Objective-C, Swift, SwiftUI and Flutter <Br>
