@@ -23,7 +23,6 @@ A **Software Engineering** 🚀 from Ahmedabad, India.
 📫: How to reach me vijaykumaryadav1341992@gmail.com
 
 
-<hr>
 <Br>
 <h1 align="center">Get in Touch! 📬</h1>
 
