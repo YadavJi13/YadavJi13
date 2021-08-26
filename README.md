@@ -36,9 +36,11 @@ Languages and Tools:
 
 [![Git](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&link=https://github.com/YadavJi13)](https://github.com/YadavJi13) 
 [![Git](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&link=https://github.com/YadavJi13)](https://github.com/YadavJi13) 
+[![Bitbucket](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&link=https://github.com/YadavJi13)](https://github.com/YadavJi13) 
+[![Bitbucket](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white&link=https://github.com/YadavJi13)](https://github.com/YadavJi13) 
+[![Bitbucket](https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white&link=https://github.com/YadavJi13)](https://github.com/YadavJi13) 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/YadavJi13)](https://github.com/YadavJi13) 
-[![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link=https://github.com/YadavJi13)](https://github.com/YadavJi13)
-[![Bitbucket](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&link=https://github.com/YadavJi13)](https://github.com/YadavJi13)
+[![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link=https://github.com/YadavJi13)](https://github.com/YadavJi13) 
    
 
  
