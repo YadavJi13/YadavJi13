@@ -34,6 +34,8 @@ A **Software Engineering** 🚀 from Ahmedabad, India.
 
 Languages and Tools:
 
+[![Git](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://github.com/YadavJi13) 
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/YadavJi13)](https://github.com/YadavJi13) 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/YadavJi13)](https://github.com/YadavJi13) 
 [![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link=https://github.com/YadavJi13)](https://github.com/YadavJi13)
 
