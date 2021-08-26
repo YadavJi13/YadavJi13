@@ -32,11 +32,11 @@ A **Software Engineering** 🚀 from Ahmedabad, India.
   <img align="left" alt="VijayYadav's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 </p>
-
+<Br>
 <hr>
 <Br>
 Languages and Tools:
-
+<Br>
 [![Git](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&link=https://github.com/YadavJi13)](https://github.com/YadavJi13) 
 [![Git](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&link=https://github.com/YadavJi13)](https://github.com/YadavJi13) 
 [![Bitbucket](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&link=https://github.com/YadavJi13)](https://github.com/YadavJi13) 
