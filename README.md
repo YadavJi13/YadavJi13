@@ -33,7 +33,6 @@ A **Software Engineering** 🚀 from Ahmedabad, India.
 </a> &nbsp;
 </p>
 <Br>
-<Br>
  
  <h3 title="name"> Languages and Tools: </h3>
  <Br>
